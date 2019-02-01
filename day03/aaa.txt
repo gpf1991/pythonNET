@@ -1,0 +1,22 @@
+Fri Jan 11 09:38:29 2019 
+
+Fri Jan 11 09:42:57 2019 that girl
+Fri Jan 11 09:43:12 2019 the one I let her get away
+Fri Jan 11 09:44:27 2019 it's all my fault cause pride got in the way
+
+Fri Jan 11 09:44:30 2019 
+
+Fri Jan 11 09:44:31 2019 
+
+Fri Jan 11 09:52:10 2019 sys.stdin(hello)
+Fri Jan 11 09:53:08 2019 sys.stdin
+Fri Jan 11 10:37:25 2019 nihao
+Fri Jan 11 10:38:55 2019 hello
+Fri Jan 11 10:40:24 2019 world
+
+Fri Jan 11 10:41:05 2019 world
+
+Fri Jan 11 11:02:24 2019 that's a girl, the one I let her get away
+
+Fri Jan 11 11:08:54 2019 
+
